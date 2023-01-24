@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>60D8D341-DC46-4C05-AA37-25227FE116D6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M18.8784,1.0847 C17.4334,-0.3613 14.9114,-0.3613 13.4644,1.0847 L2.2934,12.2557 C2.1864,12.3627 2.1144,12.4887 2.0664,12.6227 C2.0634,12.6317 2.0544,12.6377 2.0514,12.6467 L0.0514,18.6467 C-0.0686,19.0057 0.0254,19.4027 0.2934,19.6697 C0.4834,19.8607 0.7394,19.9627 1.0004,19.9627 C1.1064,19.9627 1.2124,19.9467 1.3164,19.9117 L7.3164,17.9117 C7.3254,17.9087 7.3314,17.8997 7.3404,17.8967 C7.4744,17.8487 7.6004,17.7767 7.7074,17.6697 L18.8784,6.4987 C19.6014,5.7757 20.0004,4.8137 20.0004,3.7917 C20.0004,2.7687 19.6014,1.8077 18.8784,1.0847 L18.8784,1.0847 Z M17.4644,5.0847 L17.0004,5.5487 L14.4144,2.9627 L14.8784,2.4987 C15.5694,1.8077 16.7734,1.8077 17.4644,2.4987 C17.8104,2.8447 18.0004,3.3037 18.0004,3.7917 C18.0004,4.2797 17.8104,4.7387 17.4644,5.0847 L17.4644,5.0847 Z M3.4374,14.8137 L5.1494,16.5257 L2.5814,17.3817 L3.4374,14.8137 Z M7.0004,15.5487 L4.4144,12.9627 L13.0004,4.3767 L15.5864,6.9627 L7.0004,15.5487 Z" id="path-1"></path>
+    </defs>
+    <g id="Admin-Panel-Prototype" stroke="none" strokeWidth="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-[desktop]-(1)" transform="translate(-256.000000, -486.000000)">
+            <g id="admin-panel/desktop/navbar-dashboard" transform="translate(240.000000, 154.000000)">
+                <g id="Group-3" transform="translate(0.000000, 306.000000)">
+                    <g id="Monotone" transform="translate(16.000000, 26.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="icon" fill="#31373D" xlink:href="#path-1"></use>
+                        <g id="Color" mask="url(#mask-2)" fill="#FFFFFF">
+                            <rect id="Rectangle" x="0" y="0" width="21" height="21"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="773px" height="49px" viewBox="0 0 773 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>38FCFD0E-5C63-4C86-9022-53A6BF842A4B</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Admin-Panel-Prototype" stroke="none" strokeWidth="1" fill="none" fill-rule="evenodd">
+        <g id="onboarding:-step-5-[desktop]" transform="translate(-390.000000, -248.000000)">
+            <g id="admin-panel/progress-bar-5-admin-panel/desktop/progress-bar-5" transform="translate(392.000000, 250.000000)">
+                <g id="progress-bar-5">
+                    <circle id="Oval" stroke="#00848E" strokeWidth="3" fill="#00848E" cx="203.5" cy="22.5" r="22.5"></circle>
+                    <circle id="Oval" stroke="#00848E" strokeWidth="3" fill="#00848E" cx="22.5" cy="22.5" r="22.5"></circle>
+                    <path d="M226,23.1394043 L362,23.1394043" id="Line-2" stroke="#00848E" strokeWidth="5" strokeLinecap="square"></path>
+                    <path d="M45,23.1394043 L181,22.5" id="Line-2" stroke="#00848E" strokeWidth="5" strokeLinecap="square"></path>
+                    <circle id="Oval" stroke="#00848E" strokeWidth="3" fill="#00848E" cx="565.5" cy="22.5" r="22.5"></circle>
+                    <circle id="Oval" stroke="#00848E" strokeWidth="3" cx="384.5" cy="22.5" r="22.5"></circle>
+                    <path d="M405,23.1394043 L543,23.1394043" id="Line-2" stroke="#00848E" strokeWidth="5" strokeLinecap="square"></path>
+                    <circle id="Oval" fill="#00848E" cx="384.5" cy="22.5" r="22.5"></circle>
+                    <path d="M407,23.1394043 L543,22.5" id="Line-2" stroke="#00848E" strokeWidth="5" strokeLinecap="square"></path>
+                    <circle id="Oval" stroke="#00848E" strokeWidth="3" cx="748.5" cy="22.5" r="21"></circle>
+                    <path d="M588,23.1394043 L726,23.1394043" id="Line-2" stroke="#00848E" strokeWidth="5" strokeLinecap="square"></path>
+                    <text id="5" fontFamily="Roboto-Bold, Roboto" fontSize="20" fontWeight="bold" fill="#00848E">
+                        <tspan x="742" y="30">5</tspan>
+                    </text>
+                    <text id="4" fontFamily="Roboto-Bold, Roboto" fontSize="20" fontWeight="bold" fill="#FFFFFF">
+                        <tspan x="559" y="30">4</tspan>
+                    </text>
+                    <text id="3" fontFamily="Roboto-Bold, Roboto" fontSize="20" fontWeight="bold" fill="#FFFFFF">
+                        <tspan x="379" y="30">3</tspan>
+                    </text>
+                    <text id="2" fontFamily="Roboto-Bold, Roboto" fontSize="20" fontWeight="bold" fill="#FFFFFF">
+                        <tspan x="198" y="30">2</tspan>
+                    </text>
+                    <text id="1" fontFamily="Roboto-Bold, Roboto" fontSize="20" fontWeight="bold" fill="#FFFFFF">
+                        <tspan x="18" y="30">1</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 58 (101010) - https://sketch.com -->
+    <title>2F82DCC3-69F6-4612-8860-1A8B50C95C95</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M19,18 C19.552,18 20,18.448 20,19 C20,19.5125714 19.6137143,19.9354694 19.1165685,19.9932682 L19,20 L1,20 C0.448,20 0,19.552 0,19 C0,18.4874286 0.386285714,18.0645306 0.883431487,18.0067318 L1,18 L19,18 Z M19,0 C19.5125714,0 19.9354694,0.386285714 19.9932682,0.883431487 L20,1 L20,15 C20,15.5125714 19.6137143,15.9354694 19.1165685,15.9932682 L19,16 L1,16 C0.487428571,16 0.0645306122,15.6137143 0.00673177843,15.1165685 L0,15 L0,9 C0,8.48742857 0.386285714,8.06453061 0.883431487,8.00673178 L1,8 L6,8 L6,5 C6,4.48742857 6.38628571,4.06453061 6.88343149,4.00673178 L7,4 L12,4 L12,1 C12,0.487428571 12.3862857,0.0645306122 12.8834315,0.00673177843 L13,0 L19,0 Z M18,2 L14,2 L14,14 L18,14 L18,2 Z M12,6 L8,6 L8,14 L12,14 L12,6 Z M6,10 L2,10 L2,14 L6,14 L6,10 Z" id="path-1"></path>
+    </defs>
+    <g id="Admin-Panel-Prototype" stroke="none" strokeWidth="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-[desktop]-(1)" transform="translate(-257.000000, -414.000000)">
+            <g id="admin-panel/desktop/navbar-dashboard" transform="translate(240.000000, 154.000000)">
+                <g id="Group-4" transform="translate(0.000000, 234.000000)">
+                    <g id="Monotone" transform="translate(17.000000, 26.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Icon" fill="#31373D" xlink:href="#path-1"></use>
+                        <g id="Color" mask="url(#mask-2)" fill="#FFFFFF">
+                            <rect id="Rectangle" x="0" y="0" width="21" height="21"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

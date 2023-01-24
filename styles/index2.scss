@@ -1,0 +1,71 @@
+/*====================================================================================
+	Custom Styles
+====================================================================================*/
+
+/*=== Boarding ===*/
+
+// Form
+
+
+// Step 0
+ul.step-0-options li {
+	display: grid;
+	grid-template-columns: 6% 1fr;
+	margin-bottom: 20px;
+	margin-left: 70px;
+	width: 90%;
+}
+
+
+/*=== Dashboard ===*/
+span.corder-date {
+	position: relative;
+}
+
+span.corder-date p {
+	position: absolute;
+	left: 460px;
+	bottom: 46px;
+	width: 120px;
+	color: #919EAB;
+	font-size: 1.5em;
+}
+
+
+//Menu
+.Polaris-Navigation__Item {
+	color: white;	
+}
+.Polaris-Navigation__Item:hover {
+	background: white;
+	color: black;
+}
+.Polaris-Navigation__Item--selected {
+	background: white;
+	color: black;
+}
+.Polaris-Navigation__Item--selected .Polaris-Navigation__Icon svg, 
+.Polaris-Navigation__Item--selected:focus .Polaris-Navigation__Icon svg {
+    fill: #5c6ac4 !important;
+}
+
+.nav-logo {
+	background: #4556B3;
+	margin: 0px;
+	margin-bottom: -40px;
+}
+
+//Billing
+
+ul.faq-list {
+	list-style-type: none;
+}
+
+ul.faq-list li::before {
+	content: "˃";
+	font-size: 2.1em;
+	font-weight: 700;
+	padding: 9px;
+	top: 9px;
+	position: relative;
+}
